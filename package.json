@@ -1,0 +1,22 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "Training About Single Page Application With Vanilla JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-developer/SPA-With-Vanilla-JavaScript.git"
+  },
+  "author": "Abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdullah-developer/SPA-With-Vanilla-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Abdullah-developer/SPA-With-Vanilla-JavaScript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
